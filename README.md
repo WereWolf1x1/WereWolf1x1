@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Faheem 👋
+I am a Computer Science student and a perpetual learner driven by a deep curiosity for how things work under the hood. Whether it's low-level systems, rendering engines, or interactive gameplay, I enjoy exploring new technologies and building projects from the ground up.
 
-<!--
-**WereWolf1x1/WereWolf1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+* 🎓 Currently a CS Junior.
+* 🎮 Game Developer with experience in mobile titles and 2D freelance projects.
+* 🦀 Passionate about Computer Graphics and Systems Programming.
+* 🌱 Always exploring: Right now, I'm diving into Open Source contributions, C#, and Cloud basics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Toolkit
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Graphics** | WebGL, WebGL2, Shaders (GLSL), Ray Tracing |
+| **Game Dev** | Unity, Game Design, Mobile SDKs |
+| **Web & Backend** | React Native, Node.js, MySQL, Python |
+| **Languages** | C++, C#, JavaScript, Python |
+
+---
